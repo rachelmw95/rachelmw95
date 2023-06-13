@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rachelmw95
 - 👀 I’m interested in gaming and space photography
-- 🌱 I’m currently learning everything about coding. At the moment I dont know anything, but im excited to learn.
+- 🌱 I’m currently attending a bootcamp about fullstack web development and plan to earn a certificate for ux design.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rachelcodes95@gmail.com
 
